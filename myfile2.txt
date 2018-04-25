@@ -1,3 +1,1 @@
-Udemy training class - output
-"# git-basics" 
-
+"second file input content" 
